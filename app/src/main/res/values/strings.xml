@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Task221</string>
+    <string name="save_btm">Сохранить</string>
+    <string name="save_date">данные сохранены</string>
+</resources>
